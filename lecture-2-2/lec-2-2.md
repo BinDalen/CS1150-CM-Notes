@@ -30,7 +30,7 @@ To calculate the decimal value of a number in some base R:
 
 ( AB...YZ )<sub>R</sub> =
 
-- | A | B | ... | Y | Z
+\ | A | B | ... | Y | Z
 --|---|---|-----|---|--
 digit position | n | n-1 | ... | 2 | 1
 degree | n-1 | n-2 | ... | 1 | 0
@@ -60,7 +60,7 @@ Example of binary to decimal:
 
 > (100101111)<sub>2</sub> =
 
-- | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1
+\ | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1
 --|---|---|---|---|---|---|---|---|--
 digit position | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1
 degree | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0
